@@ -16,8 +16,5 @@ COPY . /app
 
 #ENTRYPOINT [ "python3" ]
 
-<<<<<<< HEAD
 CMD python3 app.py
-=======
-CMD python3 app.py
->>>>>>> 670d9d0efc44f58a934eceda959f9e12b61e276c
+
